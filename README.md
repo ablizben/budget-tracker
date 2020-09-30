@@ -6,9 +6,9 @@ The budget tracker is an app where the user can add expenses and deposits to the
 
 
 
-![](picture1.png)
+![](budgettracker1.png)
 
-![](picture2.png)
+![](budgettracker2.png)
 
 ## User story
 
